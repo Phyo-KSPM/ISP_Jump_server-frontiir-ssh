@@ -1,0 +1,1 @@
+alias kophyo='sudo ssh -D3464 -i wanna.htay.pem wanna.htay@192.168.101.97'
